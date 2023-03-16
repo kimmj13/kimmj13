@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 -->
   
 ##### 🔥 Tech Stack 🔥
-<img src="https://img.shields.io/badge/java-007396?style=flat&logo=coffeescript&logoColor=white"> <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=liquibase&logoColor=white"> <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat&logo=springsecurity&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon%20aws"> <img src="https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=githubactions&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-007396?style=flat&logo=coffeescript&logoColor=white"> <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring%20data%20jpa-6DB33F?style=flat&logo=liquibase&logoColor=white"> <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat&logo=springsecurity&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon%20aws"> <img src="https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=githubactions&logoColor=white"> 
 
 <!--
 ##### ✿ Most Used Languages ✿
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmj13)](https://github.com/anuraghazra/github-readme-stats)
 -->
   
-##### ✿ My GitHub Stats ✿
-![kimmj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmj13&show_icons=true&theme=cobalt)\
+##### ✶ My GitHub Stats ✶
+![kimmj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmj13&show_icons=true&theme=cobalt)
   
 
  </div>
