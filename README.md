@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=150&section=header&text=minjeong's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=150&section=header&text=Hi&fontSize=50)
 <!--
 **kimmj13/kimmj13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-##### 🔥 Tech Stack 🔥
-<img src="https://img.shields.io/badge/java-007396?style=flat&logo=coffeescript&logoColor=white"> <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring%20data%20jpa-6DB33F?style=flat&logo=liquibase&logoColor=white"> <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat&logo=springsecurity&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon%20aws"> <img src="https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=githubactions&logoColor=white"> 
+
+- 🌱 I’m currently learning React and Typescript
 
 <!--
 ##### ✿ Most Used Languages ✿
