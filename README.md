@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=150&section=header&text=Hi&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=150&section=header&text=Hi%20:D&fontSize=50)
 <!--
 **kimmj13/kimmj13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning React and Typescript
+🌱 I’m currently learning React and Typescript
+
 
 <!--
 ##### ✿ Most Used Languages ✿
