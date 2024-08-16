@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
   
 ##### ✶ My GitHub Stats ✶
-![kimmj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmj13&show_icons=true&theme=cobalt)
+![kimmj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmj13&show_icons=true&theme=flag-india)
   
 
  </div>
